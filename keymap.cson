@@ -1,0 +1,4 @@
+#fix broken keymapping on german keyboards
+'.platform-win32 .editor':
+  'ctrl-alt-[': 'unset!'
+  'ctrl-alt-q': 'unset!'
